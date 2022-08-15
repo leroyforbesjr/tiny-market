@@ -1,5 +1,5 @@
 
-;; sip010-ft-trait
+;; SIP010-ft-trait
 
 
 (define-trait sip010-ft-trait

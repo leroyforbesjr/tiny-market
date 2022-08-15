@@ -1,5 +1,6 @@
 
-;; sip010-token
+;; SIP010-token
+;; the code for my generic SIP010 token, "Meh"
 
 
 (impl-trait .sip010-ft-trait.sip010-ft-trait)

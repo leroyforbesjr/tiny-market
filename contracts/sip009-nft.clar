@@ -1,5 +1,6 @@
 
-;; sip009-nft
+;; SIP009-nft
+;; the code for my generic SIP009 NFT
 
 
 (impl-trait .sip009-nft-trait.sip009-nft-trait)
